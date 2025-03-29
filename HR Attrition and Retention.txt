@@ -1,0 +1,77 @@
+HR Attrition and Retention
+
+problem statement : High employee attrition increases costs, reduces productivity, and disrupts workplace stability. Identifying key causes 		    enables HR to enhance retention and inspirefor better work environment.
+
+This problem statement clearly explains:
+✅ Why attrition is a problem (Hiring costs, productivity loss, reputation and branding risk etc.)
+✅ Why it's important to analyze (Helps in HR decision-making for employee retention)
+✅ What we aim to achieve (Identify key factors & improve retention)
+
+Project Overview : 
+📌 Understanding Employee Attrition – Analyzing key factors behind employee resignations.
+	Key factors:-Department
+		    -Job roles
+		    -Business travel
+		    -Marital status
+		    -Edu. field
+		    -Overtime
+		    -Age
+		    -Income
+		    -Experience
+
+📌 Data-Driven Insights – Exploring salary, work-life balance, job satisfaction, and other factors.
+📌 Reducing Workforce Loss – Helping companies retain employees by identifying patterns.
+📌 Improving HR Strategies – Providing recommendations for better work policies and retention plans.
+📌 Enhancing Business Stability – Reducing hiring costs and maintaining a productive workforce.
+
+✅ Why do employees leave? – We analyze key reasons behind employee resignations.
+✅ What data do we study? – Salary, work-life balance, job satisfaction, and more.
+✅ How does it help companies? – Helps HR teams reduce resignations and retain employees.
+✅ What’s the benefit? – Saves hiring costs, improves work policies, and boosts productivity.
+
+End Users : 
+✅ HR Teams – Understand why employees leave and improve retention.
+✅ Company Leaders – Make better decisions to reduce hiring costs.
+✅ Employees – Benefit from better work policies and job satisfaction.
+✅ Recruiters – Helps in identifying key factors to attract and retain top talent.
+✅ Business Analysts – Use data to plan for a stable workforce.
+
+
+WOW Factor for HR Attrition Analysis
+✅ Data-Driven Decision Making – Uses real employee data to uncover key attrition trends.
+✅ Interactive Visualizations – Easy-to-understand charts and graphs for quick insights.
+ 🔹 Easy-to-Understand Insights – Simple charts and graphs show key attrition trends.
+✅ Predictive Analysis – Helps HR teams foresee attrition risks and take action early.
+ 🔹 Helps HR Take Action – Predicts risks so companies can prevent employee loss.
+✅ Business Impact – Reduces hiring costs and improves employee retention strategies.
+ 🔹 Saves Money & Time – Reduces hiring costs by improving employee retention.
+✅ User-Friendly Dashboard – HR managers can analyze data effortlessly without technical skills.
+ 🔹 No Technical Skills Needed – HR teams can use it easily with a user-friendly dashboard.
+
+Result and Outcome :
+✅Better Employee Retention – Helps identify why employees leave
+ 🔹Find out why employees leave – Understand the main reasons for attrition.
+✅Data-Driven Decisions – HR can use insights to improve workplace policies.
+ 🔹Help HR make better decisions – Use data to improve company policies.
+✅Predict Attrition – Detects employees at risk of leaving.
+ 🔹Predict who might leave – Identify employees at risk of leaving.
+✅Reduced Hiring Costs – Prevents frequent hiring by improving retention.
+ 🔹Save hiring costs – Retain employees instead of constantly hiring new ones.
+✅Improved Work Environment – Helps create policies for better employee satisfaction.
+ 🔹Make work better – Improve employee satisfaction and work culture.
+✅Enhanced Productivity – Reduces turnover, leading to a stable workforce.
+ 🔹Increase productivity – A happy and stable workforce performs better.
+
+Conclusion :
+✅Better Employee Management – Helps companies understand why employees leave.
+✅Smart Predictions – Uses data to predict who might leave, so action can be taken early.
+✅Cost & Time Saving – Reduces hiring costs by improving employee retention.
+✅Data-Driven Decisions – Gives HR valuable insights to make better policies.
+
+Future Perspective :
+✅Smarter AI Features – Use AI to predict trends and improve decision-making
+✅Support for Remote Work – Make it useful for both in-office and remote employees.
+✅Better Security – Use advanced tech to keep employee data safe.
+✅More Customization – Adapt the system for different company needs.
+✅Sustainable Practices – Reduce paperwork with digital reports and insights.
+✅Continuous Updates – Improve the system based on user feedback.
